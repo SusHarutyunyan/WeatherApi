@@ -6,7 +6,7 @@
 
 To deploy this project follow steps below
 
-_* Copy project to your local machine
+_* Copy project to your local machine, Copy .env.example file to your local .env file
 
 * Configure local domain and set as root public folder of project
 
